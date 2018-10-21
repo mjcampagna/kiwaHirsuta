@@ -1,0 +1,19 @@
+{
+  "name": "kiwahirsuta",
+  "version": "1.0.0",
+  "description": "At present, a sandbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjcampagna/kiwaHirsuta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjcampagna/kiwaHirsuta/issues"
+  },
+  "homepage": "https://github.com/mjcampagna/kiwaHirsuta#readme"
+}
